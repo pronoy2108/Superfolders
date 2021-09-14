@@ -1,9 +1,11 @@
 
-# Superfolders
+<center> 
 
-A bunch of tweaks/utilities for Windows
+<h3>Superfolders</h3>
 
-<center>
+<p>A bunch of tweaks/utilities for Windows</p>
+
+<>
 
 <img src="https://img.shields.io/badge/Version-2.0-green">
 
