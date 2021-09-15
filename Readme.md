@@ -14,6 +14,19 @@
 
 <h4>Screenshots</h4>
 
+![]()
+![]()
   
-This is the minimal file explorer UWP from Windows 10X, which is optimized for touchscreen devices but lacks a lot of features of File Explorer
+This is the minimal file explorer UWP from Windows 10X, which is optimized for touchscreen devices but lacks a lot of features of File Explorer. 
+
+### 2. Applications
+
+<h4>Screenshots</h4>
+
+![]()
+![]()
+
+This folder shows you all the applications which are installed on your computer in File Explorer
+
+
 
