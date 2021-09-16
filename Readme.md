@@ -32,6 +32,7 @@
 <center>
  This PC on Minimal File Explorer
 </center>
+
 ---
 
 This is the minimal file explorer UWP from Windows 10X, which is optimized for touchscreen devices but lacks a lot of features of File Explorer. 
