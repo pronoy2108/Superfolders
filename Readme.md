@@ -14,9 +14,26 @@
 
 <h4>Screenshots</h4>
 
-![]()
-![]()
-  
+---
+<center>
+ 
+ ![](https://raw.githubusercontent.com/pronoy2108/Superfolders/main/10x-explorer_tskicon.png)
+
+</center>
+<center>Taskbar Icon</center>
+
+---
+
+<center>
+ 
+ ![](https://raw.githubusercontent.com/pronoy2108/Superfolders/main/10x-explorer_thispc.png)
+
+</center>
+<center>
+ This PC on Minimal File Explorer
+</center>
+---
+
 This is the minimal file explorer UWP from Windows 10X, which is optimized for touchscreen devices but lacks a lot of features of File Explorer. 
 
 ### 2. Applications
