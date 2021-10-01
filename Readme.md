@@ -41,8 +41,7 @@ This is the minimal file explorer UWP from Windows 10X, which is optimized for t
 
 <h4>Screenshots</h4>
 
-![]()
-![]()
+![](https://raw.githubusercontent.com/pronoy2108/Superfolders/main/applications_folder.png)
 
 This folder shows you all the applications which are installed on your computer in File Explorer
 
