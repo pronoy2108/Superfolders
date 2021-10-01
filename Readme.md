@@ -71,9 +71,10 @@ An alternate Task View shortcut, which you can use ([to make your taskbar look l
 
 An alternate Search shortcut, which you can use ([to make your taskbar look like Windows 11](https://gist.github.com/pronoy2108/dcac79274d33b6f127fa5e2a4aa633f5)). You can move this Search shortcut anywhere in your taskbar unlike the built-in Search in Windows 10/11 (which has a fixed position in the taskbar)
 
-### 4. Start.exe
+### 4. Start.exe <code><img width="32" height="32" src="https://files.catbox.moe/s7n3sz.ico"></code>
 
 <h4>Screenshots</h4>
+
 ![]()
 
 <center>
@@ -82,4 +83,19 @@ An alternate Search shortcut, which you can use ([to make your taskbar look like
 
 </center>
 
-An alternate Search shortcut, which you can use ([to make your taskbar look like Windows 11](https://gist.github.com/pronoy2108/dcac79274d33b6f127fa5e2a4aa633f5)). You can move this Start shortcut anywhere in your taskbar unlike the built-in Start button in Windows 10/11 (which has a fixed position in the taskbar)
+An alternate Start shortcut, which you can use ([to make your taskbar look like Windows 11](https://gist.github.com/pronoy2108/dcac79274d33b6f127fa5e2a4aa633f5)). You can move this Start shortcut anywhere in your taskbar unlike the built-in Start button in Windows 10/11 (which has a fixed position in the taskbar)
+
+### 5. Taskbar Folder
+<h4>Screenshots</h4>
+
+![]()
+
+<center>
+ 
+ ![]()
+
+</center>
+
+A folder which contains all the pinned shortcuts on your taskbar. Through this, you can add more shortcuts to your taskbar (Very useful for you if you are using Windows 11, as Windows 11 lacks drag and drop pinning abilites).
+
+---
