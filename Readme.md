@@ -45,5 +45,41 @@ This is the minimal file explorer UWP from Windows 10X, which is optimized for t
 
 This folder shows you all the applications which are installed on your computer in File Explorer
 
+### 3. Task View <code><img width="32" height="32" src="https://raw.githubusercontent.com/pronoy2108/Superfolders/main/taskview-right.ico"></code>
+
+<h4>Screenshots</h4>
 
 
+<center>
+ 
+ ![]()
+
+</center>
+
+An alternate Task View shortcut, which you can use ([to make your taskbar look like Windows 11](https://gist.github.com/pronoy2108/dcac79274d33b6f127fa5e2a4aa633f5)). You can move this Task View shortcut in your taskbar unlike the built-in Task View in Windows 10/11 (which has a fixed position in the taskbar)
+
+### 4. Search <code><img width="32" height="32" src="https://raw.githubusercontent.com/pronoy2108/Superfolders/main/search-dark.ico"></code> | <code><img width="32" height="32" src="https://raw.githubusercontent.com/pronoy2108/Superfolders/main/search.ico"></code>
+
+<h4>Screenshots</h4>
+
+
+<center>
+ 
+ ![]()
+
+</center>
+
+An alternate Search shortcut, which you can use ([to make your taskbar look like Windows 11](https://gist.github.com/pronoy2108/dcac79274d33b6f127fa5e2a4aa633f5)). You can move this Search shortcut anywhere in your taskbar unlike the built-in Search in Windows 10/11 (which has a fixed position in the taskbar)
+
+### 4. Start.exe
+
+<h4>Screenshots</h4>
+![]()
+
+<center>
+ 
+ ![]()
+
+</center>
+
+An alternate Search shortcut, which you can use ([to make your taskbar look like Windows 11](https://gist.github.com/pronoy2108/dcac79274d33b6f127fa5e2a4aa633f5)). You can move this Start shortcut anywhere in your taskbar unlike the built-in Start button in Windows 10/11 (which has a fixed position in the taskbar)
