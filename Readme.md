@@ -4,7 +4,8 @@
 <p align="center">A bunch of tweaks/utilities for Windows</p>
 
 <p align="center">
-<img src="https://img.shields.io/github/v/release/pronoy2108/Superfolders?label=version">
+<img src="https://img.shields.io/github/v/release/pronoy2108/Superfolders?label=version"><a href="https://github.com/pronoy2108/Superfolders/releases/tag/v2.5">
+
 <img src="https://img.shields.io/github/downloads/pronoy2108/superfolders/total">
 </p>
 <hr/>
