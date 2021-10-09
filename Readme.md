@@ -4,7 +4,7 @@
 <p align="center">A bunch of tweaks/utilities for Windows</p>
 
 <p align="center">
-<img src="https://img.shields.io/github/v/release/pronoy2108/Superfolders?label=version"><a href="https://github.com/pronoy2108/Superfolders/releases/tag/v2.5">
+<a href="https://github.com/pronoy2108/Superfolders/releases/tag/v2.5"><img src="https://img.shields.io/github/v/release/pronoy2108/Superfolders?label=version"></a>
 
 <img src="https://img.shields.io/github/downloads/pronoy2108/superfolders/total">
 </p>
@@ -100,3 +100,7 @@ An alternate Start shortcut, which you can use ([to make your taskbar look like 
 A folder which contains all the pinned shortcuts on your taskbar. Through this, you can add more shortcuts to your taskbar (Very useful for you if you are using Windows 11, as Windows 11 lacks drag and drop pinning abilites).
 
 ---
+
+### 6. Tweaks for Windows 11
+
+This GitHub repository is now a sub-repository inside Superfolders. Newer releases will contain tweaks from there....
