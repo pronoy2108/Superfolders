@@ -46,7 +46,7 @@ This is the minimal file explorer UWP from Windows 10X, which is optimized for t
 
 This folder shows you all the applications which are installed on your computer in File Explorer
 
-### 3. Task View <code><img width="32" height="32" src="https://raw.githubusercontent.com/pronoy2108/Superfolders/main/taskview-right.ico"></code>
+### 3. Task View <code><img width="32" height="32" src="https://raw.githubusercontent.com/pronoy2108/Superfolders/main/taskview.ico"></code>
 
 <h4>Screenshots</h4>
 
