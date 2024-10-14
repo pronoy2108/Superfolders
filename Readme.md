@@ -2,8 +2,8 @@
 <h2 align="center">Superfolders</h2>
   
  <img align="center" width="250.5" height="250.5" src="https://raw.githubusercontent.com/pronoy2108/Superfolders/main/superfolders-icon.png">
- <p align="center"> 
- Icon made by <a href="https://twitter.com/Qirkl">Qirkl</a>
+
+
 </p>
 <p align="center">A bunch of tweaks/utilities for Windows</p>
 
